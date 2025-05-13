@@ -19,7 +19,7 @@ Whether you're sending a formal request, apology, follow-up, or announcement —
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -27,6 +27,3 @@ Whether you're sending a formal request, apology, follow-up, or announcement —
 - Requests
 - Python-dotenv
 
----
-
-## 🔧 Setup Instructions
